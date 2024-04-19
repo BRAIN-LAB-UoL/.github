@@ -2,7 +2,9 @@
 
 
 
-#<p align="justify"> Welcome to the GitHub page for the University of Liverpool BRAIN Lab </p>
+# Welcome to the GitHub for the University of Liverpool BRAIN Lab
+
+<p align="justify"> This page serves as a place for members of the BRAIN Lab to share code, tutorials, data, and publications with members of the public.</p>
 <!--
 
 **Here are some ideas to get you started:**

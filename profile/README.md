@@ -1,8 +1,8 @@
 ![./element-design_lab-header_blackbg.png](https://github.com/BRAIN-LAB-UoL/.github/blob/main/profile/element-design_lab-header_blackbg.png)
 
-\justifying
 
-<p align="justify"> # Welcome to the GitHub page for the University of Liverpool BRAIN Lab </p>
+
+#<p align="justify"> Welcome to the GitHub page for the University of Liverpool BRAIN Lab </p>
 <!--
 
 **Here are some ideas to get you started:**

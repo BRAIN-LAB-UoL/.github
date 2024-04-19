@@ -1,4 +1,4 @@
-![](BRAIN-LAB-UoL/.github/profile/element-design_lab-header_blackbg.png)
+![](~/.github/profile/element-design_lab-header_blackbg.png)
 
 # Welcome to the GitHub page for the University of Liverpool BRAIN Lab
 <!--

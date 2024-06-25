@@ -1,4 +1,4 @@
-![./element-design_lab-header_blackbg.png](https://github.com/BRAIN-LAB-UoL/.github/blob/main/profile/element-design_lab-logo_dark-githubbg.png)
+![./element-design_lab-header_blackbg.png](https://github.com/BRAIN-LAB-UoL/.github/blob/main/profile/element-design_lab-logo_dark-blackbg.png)
 
 
 
